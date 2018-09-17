@@ -1,2 +1,4 @@
 ['remote "myremote"']
 url = s3://yields-dvc
+[core]
+remote = myremote
